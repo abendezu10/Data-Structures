@@ -9,10 +9,6 @@ cmake-build-debug/
 # Include CMake build script
 !CMakeLists.txt
 
-# Include source files
-
-*.c
-*.h
 
 # Exclude macOS .DS_Store files
 .DS_Store
