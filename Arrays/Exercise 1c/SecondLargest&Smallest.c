@@ -14,6 +14,8 @@ void sort(int arr[], int size){
                 temp = *(p+j); // value is 5
                 *(p+j) = *(p+i);
                 *(p+i) = temp;
+
+
                 j -=counter +1;
                 counter = 0;
             } else{
