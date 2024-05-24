@@ -1,0 +1,6 @@
+# ninja log v5
+1	63	1716577154866219365	build.ninja	724761f603b57d46
+0	192	1716577155064073642	CMakeFiles/Linked_List_Implementation.dir/Linked_List.c.o	ddbc14d7389367e2
+192	232	1716577155106192305	Linked_List_Implementation	d00626e352961b8a
+0	158	1716577965065522781	CMakeFiles/Linked_List_Implementation.dir/Linked_List.c.o	ddbc14d7389367e2
+158	200	1716577965109091513	Linked_List_Implementation	d00626e352961b8a
