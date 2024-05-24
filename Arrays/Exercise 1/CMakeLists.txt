@@ -3,4 +3,4 @@ project(Data_Structures C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Data_Structures main.c)
+add_executable(Data_Structures LargestElement.c)
