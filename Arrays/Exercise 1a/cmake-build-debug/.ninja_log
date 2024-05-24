@@ -1,0 +1,10 @@
+# ninja log v5
+43	82	1716511896854700698	Data_Structures	d88c0c036e802341
+0	43	1716511896814651605	CMakeFiles/Data_Structures.dir/main.c.o	eccd2b517a9a5c13
+1	72	1716512772366580856	build.ninja	1ea2cdaff2532bc4
+0	191	1716512772564075553	CMakeFiles/Data_Structures.dir/LargestElement.c.o	e1bd18116fcc98f7
+191	252	1716512772626924915	Data_Structures	29606501b041c575
+0	196	1716513139495820165	CMakeFiles/Data_Structures.dir/LargestElement.c.o	e1bd18116fcc98f7
+196	248	1716513139551501021	Data_Structures	29606501b041c575
+0	189	1716513580348003138	CMakeFiles/Data_Structures.dir/LargestElement.c.o	e1bd18116fcc98f7
+189	242	1716513580402941127	Data_Structures	29606501b041c575
