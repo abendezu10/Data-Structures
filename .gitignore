@@ -1,0 +1,18 @@
+# Exclude IDE-specific files
+.idea/
+
+
+
+# Exclude build directories
+cmake-build-debug/
+
+# Include CMake build script
+!CMakeLists.txt
+
+# Include source files
+
+*.c
+*.h
+
+# Exclude macOS .DS_Store files
+.DS_Store
