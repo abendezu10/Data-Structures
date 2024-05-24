@@ -1,11 +1,12 @@
 # Exclude IDE-specific files
 ../../.idea/
+.idea/
 
 
 
 
 # Exclude build directories
-Exercise 1/cmake-build-debug/
+Arrays/Exercise 1/cmake-build-debug/
 
 # Include CMake build script
 !CMakeLists.txt
