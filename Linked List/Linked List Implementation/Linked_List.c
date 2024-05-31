@@ -69,20 +69,31 @@ void print(){
 
 }
 
+void reverse(){
+    node *current, *prev,*next;
+    current = head;
+    prev = NULL;
+    while(current != NULL){
+        next = current->next;
+        current->next = prev;
+        prev = current;
+        current = next;
+    }
+    head = prev;
+
+}
+
 
 int main() {
     head = NULL;
 
 
-    insert(5,2);
-    insert(2,2);
-    insert(3,3);
-    insert(4,4);
-    insert(1,5);
+    insert(2,1);
+    insert(4,2);
+    insert(6,3);
+    insert(5,4);
     print();
-
-    delete(1);
+    reverse();
     print();
-
     return 0;
 }
