@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Linked_List_Stack_Implementation",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Linked_List_Stack_Implementation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Linked_List_Stack_Implementation-Debug-b420f1752977175408d7.json",
+					"name" : "Linked_List_Stack_Implementation",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/alexbendezu/Documents/C Programming/Projects/Data-Structures/Stack/Linked List Stack Implementation/cmake-build-debug",
+		"source" : "/Users/alexbendezu/Documents/C Programming/Projects/Data-Structures/Stack/Linked List Stack Implementation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
